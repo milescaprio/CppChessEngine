@@ -10,5 +10,5 @@ Chess Engine, Created in C++.
 
 Last modified June 2022, Later uploaded to GitHub
 
-[https://1drv.ms/p/s!AjPTAjzvct4lh5FYf6nR2Dy6XhN9nQ?e=KBaAqN](More project information)
+(https://1drv.ms/p/s!AjPTAjzvct4lh5FYf6nR2Dy6XhN9nQ?e=KBaAqN)[More project information]
 
